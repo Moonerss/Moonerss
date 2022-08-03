@@ -3,6 +3,8 @@
 I am intersted in R and shiny.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moonerss&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonerss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Moonerss/Moonerss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
